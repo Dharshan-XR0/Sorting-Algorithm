@@ -22,7 +22,7 @@ i)	#Selection Sort
 ```python
 ''' 
 Program to sort the elements in the list using the Selection Sort algorithm.
-Developed by: your name DHARSHAN
+Developed by: DHARSHAN V
 RegisterNumber: 22003103
 '''
 def selectionSort(array, size):
