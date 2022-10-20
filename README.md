@@ -44,7 +44,9 @@ size = len(arr)
 selectionSort(arr, size)
 print(arr)
 
+
 /*
+
 
 ```
 
@@ -57,7 +59,6 @@ print(arr)
 
 ii)	## Insertion Sort
 ```
-
 /*
 
 def insertion_sort(nums):
